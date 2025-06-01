@@ -1,0 +1,7 @@
+Prepare cat adoption platform for deployment on Vercel hosting service
+
+Adds Vercel configuration files (vercel.json, api/index.ts) and deployment instructions (README_VERCEL.md).
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c31bb375-8bec-46e1-a67e-e5da2dcc8e7e
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/afeff57e-a405-4f0a-839b-5bc256aab1bf/c442c59d-594d-4070-9266-9d9a175bc74b.jpg
